@@ -1,82 +1,81 @@
 <div align="center">
 
-Nabil Adillah Supardy
+# Nabil Adillah Supardy
 
-Full-Stack Developer
+### Full-Stack Developer
 
 Building modern web applications from frontend to backend.
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422)
 
 </div>
 
-About Me
+---
 
-I'm a student at Universitas Islam Negeri Imam Bonjol Padang and a Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
+## About Me
+
+I'm a student at **Universitas Islam Negeri Imam Bonjol Padang** and a Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
 
 I enjoy working across the stack — from frontend interfaces to backend services, authentication, APIs, and databases.
 
 Currently focusing on:
 
-Full-Stack Web Development
+- Full-Stack Web Development
+- REST API Development
+- React & Laravel
+- Flutter & Dart
+- Building and improving real-world software projects
 
-REST API Development
+---
 
-React & Laravel
+## Tech Stack
 
-Flutter & Dart
-
-Building and improving real-world software projects
-
-Tech Stack
-
-Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,dart" alt="Languages" />
 </p>
 
-Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,laravel,flutter" alt="Frameworks and libraries" />
 </p>
 
-Database & Tools
+### Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and tools" />
 </p>
 
-Featured Project
+---
 
-SIAKAD SMA
+## Featured Project
 
-Academic information system built with React, Vite, Laravel, REST API, MySQL, and Sanctum.
+### SIAKAD SMA
+
+Academic information system built with **React, Vite, Laravel, REST API, MySQL, and Sanctum**.
 
 Main areas:
 
-Authentication & authorization
+- Authentication & authorization
+- Role-based dashboards
+- Schedule management
+- Attendance management
+- Assessment management
+- Academic monitoring
 
-Role-based dashboards
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422/siakad_sma)
 
-Schedule management
+### Sistem Informasi Desa
 
-Attendance management
+Web-based village information system project using **PHP and Laravel Blade**.
 
-Assessment management
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422/sistem-informasi-desa)
 
-Academic monitoring
+---
 
-
-
-Sistem Informasi Desa
-
-Web-based village information system project using PHP and Laravel Blade.
-
-
-
-GitHub Contribution Streak
+## GitHub Contribution Streak
 
 <div align="center">
 
@@ -84,18 +83,23 @@ GitHub Contribution Streak
 
 </div>
 
-GitHub Activity
+---
+
+## GitHub Activity
 
 For the complete contribution calendar and latest activity, visit my GitHub profile:
 
 <div align="center">
 
-
+[![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422)
 
 </div>
 
-Current Focus
+---
 
+## Current Focus
+
+```text
 Full-Stack Development
 ├── Frontend
 │   ├── React
@@ -113,17 +117,22 @@ Full-Stack Development
 └── Mobile
     ├── Flutter
     └── Dart
+```
 
-Development Philosophy
+---
 
-Build it. Understand it. Improve it.
+## Development Philosophy
+
+> Build it. Understand it. Improve it.
 
 I prefer learning by building real projects, understanding how each layer works, and improving the implementation over time.
 
+---
+
 <div align="center">
 
-Let's Build Something
+### Let's Build Something
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github)](https://github.com/nabilsupardy4422)
 
 </div>
