@@ -93,45 +93,81 @@ Build it. Understand it. Improve it.
 
 ---
 
-## Featured Projects
+<h2>Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SIAKAD SMA
+<h3>SIAKAD SMA</h3>
 
-Sistem Informasi Akademik SMA berbasis web dengan role-based access control.
+<p>
+<strong>Academic Management System</strong>
+</p>
 
-**Tech Stack**
+<p>
+A web-based academic information system designed to manage school
+academic workflows with role-based access control.
+</p>
 
-`React` `Vite` `Tailwind CSS`  
-`Laravel 13` `REST API` `Sanctum` `MySQL`
+<p>
+<strong>Core Stack</strong><br>
+<code>React</code>
+<code>Vite</code>
+<code>Tailwind CSS</code><br>
+<code>Laravel 13</code>
+<code>REST API</code>
+<code>Sanctum</code>
+<code>MySQL</code>
+</p>
 
-**Status:** In Development
+<p>
+<strong>Status</strong><br>
+<img src="https://img.shields.io/badge/IN_DEVELOPMENT-0A84FF?style=flat-square" alt="In Development">
+</p>
 
+<p>
 <a href="https://github.com/nabilsupardy4422/siakad_sma">
-  <img src="https://img.shields.io/badge/View_Repository-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View SIAKAD SMA repository">
+  <strong>View Project →</strong>
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Sistem Informasi Desa
+<h3>Sistem Informasi Desa</h3>
 
-Sistem Informasi Desa berbasis Laravel untuk digitalisasi informasi dan pelayanan publik.
+<p>
+<strong>Digital Village Information System</strong>
+</p>
 
-**Tech Stack**
+<p>
+A Laravel-based information system developed to support village
+information management and public service digitalization.
+</p>
 
-`Laravel 12` `PHP` `MySQL`  
-`Blade` `Tailwind CSS` `Chart.js` `Vite`
+<p>
+<strong>Core Stack</strong><br>
+<code>Laravel 12</code>
+<code>PHP</code>
+<code>MySQL</code><br>
+<code>Blade</code>
+<code>Tailwind CSS</code>
+<code>Chart.js</code>
+<code>Vite</code>
+</p>
 
-**Status:** Completed Project
+<p>
+<strong>Status</strong><br>
+<img src="https://img.shields.io/badge/COMPLETED-2EA043?style=flat-square" alt="Completed">
+</p>
 
+<p>
 <a href="https://github.com/nabilsupardy4422/sistem-informasi-desa">
-  <img src="https://img.shields.io/badge/View_Repository-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View Sistem Informasi Desa repository">
+  <strong>View Project →</strong>
 </a>
+</p>
 
 </td>
 </tr>
