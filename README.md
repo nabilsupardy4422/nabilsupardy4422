@@ -93,81 +93,61 @@ Build it. Understand it. Improve it.
 
 ---
 
-<h2>Featured Projects</h2>
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>SIAKAD SMA</h3>
+### SIAKAD SMA
 
-<p>
-<strong>Academic Management System</strong>
+<p align="center">
+  <img src="./assets/siakad-dashboard.png" alt="SIAKAD SMA Dashboard" width="100%">
 </p>
 
-<p>
-A web-based academic information system designed to manage school
-academic workflows with role-based access control.
-</p>
+**Academic Management System**
+
+Sistem informasi akademik berbasis web untuk mendukung pengelolaan jadwal, absensi, penilaian, monitoring KBM, dan akses berdasarkan role pengguna.
+
+**Core Stack**
+
+`React` `Vite` `Tailwind CSS`  
+`Laravel 13` `REST API` `Sanctum` `MySQL`
 
 <p>
-<strong>Core Stack</strong><br>
-<code>React</code>
-<code>Vite</code>
-<code>Tailwind CSS</code><br>
-<code>Laravel 13</code>
-<code>REST API</code>
-<code>Sanctum</code>
-<code>MySQL</code>
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-2563EB?style=flat-square">
 </p>
 
-<p>
-<strong>Status</strong><br>
-<img src="https://img.shields.io/badge/IN_DEVELOPMENT-0A84FF?style=flat-square" alt="In Development">
-</p>
-
-<p>
 <a href="https://github.com/nabilsupardy4422/siakad_sma">
-  <strong>View Project →</strong>
+  <b>View Project →</b>
 </a>
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>Sistem Informasi Desa</h3>
+### Sistem Informasi Desa
 
-<p>
-<strong>Digital Village Information System</strong>
+<p align="center">
+  <img src="./assets/dashboard-desa.png" alt="Sistem Informasi Desa Dashboard" width="100%">
 </p>
 
-<p>
-A Laravel-based information system developed to support village
-information management and public service digitalization.
-</p>
+**Digital Village Information System**
+
+Sistem informasi desa berbasis Laravel yang dikembangkan untuk mendukung digitalisasi informasi dan pelayanan publik serta pengelolaan data desa.
+
+**Core Stack**
+
+`Laravel 12` `PHP` `MySQL`  
+`Blade` `Tailwind CSS` `Chart.js` `Vite`
 
 <p>
-<strong>Core Stack</strong><br>
-<code>Laravel 12</code>
-<code>PHP</code>
-<code>MySQL</code><br>
-<code>Blade</code>
-<code>Tailwind CSS</code>
-<code>Chart.js</code>
-<code>Vite</code>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square">
 </p>
 
-<p>
-<strong>Status</strong><br>
-<img src="https://img.shields.io/badge/COMPLETED-2EA043?style=flat-square" alt="Completed">
-</p>
-
-<p>
 <a href="https://github.com/nabilsupardy4422/sistem-informasi-desa">
-  <strong>View Project →</strong>
+  <b>View Project →</b>
 </a>
-</p>
 
 </td>
 </tr>
