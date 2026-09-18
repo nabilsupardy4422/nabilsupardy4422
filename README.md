@@ -50,28 +50,45 @@ Currently focusing on:
 
 ---
 
-## Featured Project
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### SIAKAD SMA
 
-Academic information system built with **React, Vite, Laravel, REST API, MySQL, and Sanctum**.
+Sistem Informasi Akademik SMA berbasis web dengan role-based access control.
 
-Main areas:
+**Tech Stack**
 
-- Authentication & authorization
-- Role-based dashboards
-- Schedule management
-- Attendance management
-- Assessment management
-- Academic monitoring
+`React` `Vite` `Tailwind CSS`  
+`Laravel 13` `REST API` `Sanctum` `MySQL`
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422/siakad_sma)
+**Status:** In Development
+
+[View Repository →](https://github.com/nabilsupardy4422/siakad_sma)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Sistem Informasi Desa
 
-Web-based village information system project using **PHP and Laravel Blade**.
+Sistem Informasi Desa berbasis Laravel untuk digitalisasi informasi dan pelayanan publik.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422/sistem-informasi-desa)
+**Tech Stack**
+
+`Laravel 12` `PHP` `MySQL`  
+`Blade` `Tailwind CSS` `Chart.js` `Vite`
+
+**Status:** Completed Project
+
+[View Repository →](https://github.com/nabilsupardy4422/sistem-informasi-desa)
+
+</td>
+</tr>
+</table>
 
 ---
 
