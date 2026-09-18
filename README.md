@@ -96,7 +96,14 @@ For the complete contribution calendar and latest activity, visit my GitHub prof
 </div>
 
 ---
+## GitHub Statistics
 
+<p align="center">
+  <img src="./profile/stats.svg" height="170">
+  <img src="./profile/top-langs.svg" height="170">
+</p>
+
+---
 ## Current Focus
 
 ```text
