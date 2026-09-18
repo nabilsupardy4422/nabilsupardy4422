@@ -150,14 +150,23 @@ Currently focusing on building practical and maintainable software through:
 
 > Build it. Understand it. Improve it.
 
-I prefer learning by building real projects, understanding how each layer works, and improving the implementation over time.
-
+I believe the best way to learn software development is by building real projects, understanding how each layer works, and continuously improving the implementation.
 ---
 
 <div align="center">
 
-### Let's Build Something
+## Let's Build Something
 
-[![GitHub](https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github)](https://github.com/nabilsupardy4422)
+Interested in collaborating or discussing a project?
 
-</div>
+<p align="center">
+  <a href="https://github.com/nabilsupardy4422">
+    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nabilsupardy/">
+    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@nabil.supardy">
+    <img src="https://img.shields.io/badge/TikTok-@nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
