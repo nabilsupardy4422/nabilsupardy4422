@@ -156,16 +156,61 @@ Sistem Informasi Desa berbasis Laravel untuk digitalisasi informasi dan pelayana
 
 ---
 
-## Current Focus
+<h2>Current Focus</h2>
 
-I am currently focusing on building practical and maintainable software through:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- **Full-Stack Web Development** — React, Vite, Tailwind CSS, Laravel, and PHP
-- **REST API Development** — Designing and integrating backend services with modern frontend applications
-- **Database-driven Applications** — MySQL and structured data management
-- **Authentication & Authorization** — Building secure role-based application access
-- **Mobile Development** — Flutter and Dart
-- **Software Architecture** — Improving project structure, maintainability, and integration
+<h3>Full-Stack Development</h3>
+
+Building modern web applications with React, Vite, Tailwind CSS, Laravel, and PHP.
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>REST API Development</h3>
+
+Designing and integrating backend services with modern frontend applications.
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Database-driven Apps</h3>
+
+Working with MySQL and structured data to build practical applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3>Authentication & Authorization</h3>
+
+Building role-based access and secure application workflows.
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Mobile Development</h3>
+
+Exploring application development with Flutter and Dart.
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Software Architecture</h3>
+
+Improving project structure, maintainability, and system integration.
+
+</td>
+</tr>
+</table>
 
 ---
 
