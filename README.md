@@ -64,17 +64,6 @@ Focus areas:
 - Assessment
 - Academic monitoring
 
-### KYŪSUI
-
-Android application concept for online gallon-water ordering with delivery-position tracking.
-
-Focus areas:
-
-- Android application
-- Online ordering
-- REST API integration
-- Delivery tracking
-
 ---
 
 ## GitHub Statistics
