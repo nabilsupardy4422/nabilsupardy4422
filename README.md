@@ -41,13 +41,6 @@ nabil@github:~$ role
 
 Full-Stack Developer
 
-nabil@github:~$ focus
-
-Web Development
-REST API
-Database-driven Applications
-Mobile Development
-
 nabil@github:~$ currently_building
 
 SIAKAD SMA
@@ -253,7 +246,7 @@ My approach:
 - Build incrementally
 - Test and refine
 - Keep improving
----
+
 
 ## Let's Build Something
 
