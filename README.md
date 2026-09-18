@@ -1,84 +1,82 @@
 <div align="center">
 
-# Nabil Adillah Supardy
+Nabil Adillah Supardy
 
-### Full-Stack Developer
+Full-Stack Developer
 
 Building modern web applications from frontend to backend.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422)
+
 
 </div>
 
----
+About Me
 
-## About Me
+I'm a student at Universitas Islam Negeri Imam Bonjol Padang and a Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
 
-I'm a student at **Universitas Islam Negeri Imam Bonjol Padang** and a Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
-
-I enjoy working across the stack — from designing user interfaces and building frontend applications to developing backend services, APIs, authentication, and database systems.
+I enjoy working across the stack — from frontend interfaces to backend services, authentication, APIs, and databases.
 
 Currently focusing on:
 
-- Full-Stack Web Development
-- REST API Development
-- React & Laravel
-- Flutter & Dart
+Full-Stack Web Development
 
----
+REST API Development
 
-## Tech Stack
+React & Laravel
 
-### Languages
+Flutter & Dart
+
+Building and improving real-world software projects
+
+Tech Stack
+
+Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart" alt="Languages" />
 </p>
 
-### Frameworks & Libraries
+Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,laravel,flutter" alt="Frameworks and libraries" />
 </p>
 
-### Tools & Platforms
+Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and tools" />
 </p>
 
----
+Featured Project
 
-## Featured Projects
-
-### SIAKAD SMA
+SIAKAD SMA
 
 Academic information system built with React, Vite, Laravel, REST API, MySQL, and Sanctum.
 
-Focus areas:
+Main areas:
 
-- Authentication & authorization
-- Role-based dashboards
-- Schedule management
-- Attendance
-- Assessment
-- Academic monitoring
+Authentication & authorization
 
----
+Role-based dashboards
 
-## GitHub Statistics
+Schedule management
 
-<div align="center">
+Attendance management
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabilsupardy4422&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nabil's GitHub statistics" />
+Assessment management
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsupardy4422&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Nabil's most used languages" />
+Academic monitoring
 
-</div>
 
----
 
-## Contribution Streak
+Sistem Informasi Desa
+
+Web-based village information system project using PHP and Laravel Blade.
+
+
+
+GitHub Contribution Streak
 
 <div align="center">
 
@@ -86,21 +84,18 @@ Focus areas:
 
 </div>
 
----
+GitHub Activity
 
-## Contribution Graph
+For the complete contribution calendar and latest activity, visit my GitHub profile:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilsupardy4422&theme=tokyo-night&hide_border=true&area=true" alt="Nabil's GitHub activity graph" />
+
 
 </div>
 
----
+Current Focus
 
-## Current Focus
-
-```text
 Full-Stack Development
 ├── Frontend
 │   ├── React
@@ -118,22 +113,17 @@ Full-Stack Development
 └── Mobile
     ├── Flutter
     └── Dart
-```
 
----
+Development Philosophy
 
-## Development Philosophy
-
-> Build it. Understand it. Improve it.
+Build it. Understand it. Improve it.
 
 I prefer learning by building real projects, understanding how each layer works, and improving the implementation over time.
 
----
-
 <div align="center">
 
-### Let's Build Something
+Let's Build Something
 
-[![GitHub](https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github)](https://github.com/nabilsupardy4422)
+
 
 </div>
