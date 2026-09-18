@@ -1,30 +1,61 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Nabil Adillah Supardy - Full-Stack Developer" width="100%">
+</p>
 
-# Nabil Adillah Supardy
+<h1 align="center">Nabil Adillah Supardy</h1>
 
-### Full-Stack Developer
+<p align="center">
+  <strong>Full-Stack Developer</strong>
+</p>
 
-Building modern web applications from frontend to backend.
+<p align="center">
+  Building modern web applications from frontend to backend.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422)
-
-</div>
+<p align="center">
+  <a href="https://github.com/nabilsupardy4422">
+    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/nabilsupardy/">
+    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@nabil.supardy">
+    <img src="https://img.shields.io/badge/TikTok-@nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I'm a student at **Universitas Islam Negeri Imam Bonjol Padang** and a Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
+I am a university student and Full-Stack Developer focused on building practical web applications, REST APIs, and data-driven systems.
 
-I enjoy working across the stack — from frontend interfaces to backend services, authentication, APIs, and databases.
+I enjoy learning by building real projects, understanding how each layer works, and improving the implementation over time.
 
-Currently focusing on:
+```text
+nabil@github:~$ whoami
 
-- Full-Stack Web Development
-- REST API Development
-- React & Laravel
-- Flutter & Dart
-- Building and improving real-world software projects
+Nabil Adillah Supardy
+
+nabil@github:~$ role
+
+Full-Stack Developer
+
+nabil@github:~$ focus
+
+Web Development
+REST API
+Database-driven Applications
+Mobile Development
+
+nabil@github:~$ currently_building
+
+SIAKAD SMA
+
+nabil@github:~$ motto
+
+Build it. Understand it. Improve it.
+```
 
 ---
 
@@ -33,31 +64,31 @@ Currently focusing on:
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend technologies">
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend technologies">
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database technologies">
 </p>
 
 ### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies">
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
 </p>
 
 ---
@@ -79,7 +110,9 @@ Sistem Informasi Akademik SMA berbasis web dengan role-based access control.
 
 **Status:** In Development
 
-[View Repository →](https://github.com/nabilsupardy4422/siakad_sma)
+<a href="https://github.com/nabilsupardy4422/siakad_sma">
+  <img src="https://img.shields.io/badge/View_Repository-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View SIAKAD SMA repository">
+</a>
 
 </td>
 
@@ -96,7 +129,9 @@ Sistem Informasi Desa berbasis Laravel untuk digitalisasi informasi dan pelayana
 
 **Status:** Completed Project
 
-[View Repository →](https://github.com/nabilsupardy4422/sistem-informasi-desa)
+<a href="https://github.com/nabilsupardy4422/sistem-informasi-desa">
+  <img src="https://img.shields.io/badge/View_Repository-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View Sistem Informasi Desa repository">
+</a>
 
 </td>
 </tr>
@@ -104,38 +139,26 @@ Sistem Informasi Desa berbasis Laravel untuk digitalisasi informasi dan pelayana
 
 ---
 
-## GitHub Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nabilsupardy4422&theme=tokyonight&hide_border=true" alt="Nabil's GitHub contribution streak" />
-
-</div>
-
----
-
-## GitHub Activity
-
-For the complete contribution calendar and latest activity, visit my GitHub profile:
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilsupardy4422)
-
-</div>
-
----
-## GitHub Statistics
+## Coding Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170">
-  <img src="./profile/top-langs.svg" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilsupardy4422&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
 ---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="170" alt="GitHub Statistics">
+  <img src="./profile/top-langs.svg" height="170" alt="Most Used Languages">
+</p>
+
+---
+
 ## Current Focus
 
-Currently focusing on building practical and maintainable software through:
+I am currently focusing on building practical and maintainable software through:
 
 - **Full-Stack Web Development** — React, Vite, Tailwind CSS, Laravel, and PHP
 - **REST API Development** — Designing and integrating backend services with modern frontend applications
@@ -148,25 +171,36 @@ Currently focusing on building practical and maintainable software through:
 
 ## Development Philosophy
 
-> Build it. Understand it. Improve it.
+> **Build it. Understand it. Improve it.**
 
 I believe in learning through real projects, understanding how each layer works, and continuously improving the implementation.
 
-
-<div align="center">
+---
 
 ## Let's Build Something
 
-Interested in collaborating or discussing a project?
+<p align="center">
+  Interested in collaborating or discussing a project?
+</p>
 
 <p align="center">
   <a href="https://github.com/nabilsupardy4422">
-    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/nabilsupardy/">
-    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.tiktok.com/@nabil.supardy">
-    <img src="https://img.shields.io/badge/TikTok-@nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-@nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
+</p>
+
+<p align="center">
+  <em>Better Software, Brighter Tomorrow.</em>
+</p>
+
+---
+
+<p align="center">
+  Built with care by <strong>Nabil Adillah Supardy</strong>
 </p>
