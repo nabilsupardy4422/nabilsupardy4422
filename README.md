@@ -30,22 +30,34 @@ Currently focusing on:
 
 ## Tech Stack
 
-### Languages
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### Frameworks & Libraries
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,laravel,flutter" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### Database & Tools
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
