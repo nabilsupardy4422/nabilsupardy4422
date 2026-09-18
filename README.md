@@ -150,8 +150,8 @@ Currently focusing on building practical and maintainable software through:
 
 > Build it. Understand it. Improve it.
 
-I believe the best way to learn software development is by building real projects, understanding how each layer works, and continuously improving the implementation.
----
+I believe in learning through real projects, understanding how each layer works, and continuously improving the implementation.
+
 
 <div align="center">
 
