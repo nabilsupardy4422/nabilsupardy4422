@@ -155,19 +155,31 @@ Sistem informasi desa berbasis Laravel yang dikembangkan untuk mendukung digital
 
 ---
 
-## Coding Activity
+<h2>📊 Coding Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilsupardy4422&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nabilsupardy4422&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="100%"
+  />
 </p>
 
 ---
 
-## GitHub Statistics
+<h2>GitHub Statistics</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Statistics">
-  <img src="./profile/top-langs.svg" height="170" alt="Most Used Languages">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+    width="49%"
+  />
 </p>
 
 ---
