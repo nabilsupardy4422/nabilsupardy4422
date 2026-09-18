@@ -148,7 +148,7 @@ Sistem informasi desa berbasis Laravel yang dikembangkan untuk mendukung digital
 
 ---
 
-<h2>📊 Coding Activity</h2>
+<h2>Coding Activity</h2>
 
 <p align="center">
   <img
