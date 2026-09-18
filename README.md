@@ -167,18 +167,18 @@ Sistem informasi desa berbasis Laravel yang dikembangkan untuk mendukung digital
 
 ---
 
-<h2>GitHub Statistics</h2>
+## GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%">
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" width="49%">
+</p>
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Most Used Languages"
-    width="49%"
+    src="./assets/github-cyber-scanner.gif"
+    alt="GitHub Contribution Activity - Cyber Scanner"
+    width="100%"
   />
 </p>
 
