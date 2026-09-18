@@ -135,25 +135,14 @@ For the complete contribution calendar and latest activity, visit my GitHub prof
 ---
 ## Current Focus
 
-```text
-Full-Stack Development
-├── Frontend
-│   ├── React
-│   ├── Vite
-│   └── Tailwind CSS
-│
-├── Backend
-│   ├── Laravel
-│   ├── PHP
-│   └── REST API
-│
-├── Database
-│   └── MySQL
-│
-└── Mobile
-    ├── Flutter
-    └── Dart
-```
+Currently focusing on building practical and maintainable software through:
+
+- **Full-Stack Web Development** — React, Vite, Tailwind CSS, Laravel, and PHP
+- **REST API Development** — Designing and integrating backend services with modern frontend applications
+- **Database-driven Applications** — MySQL and structured data management
+- **Authentication & Authorization** — Building secure role-based application access
+- **Mobile Development** — Flutter and Dart
+- **Software Architecture** — Improving project structure, maintainability, and integration
 
 ---
 
