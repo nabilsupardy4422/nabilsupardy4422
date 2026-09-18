@@ -184,94 +184,98 @@ Sistem informasi desa berbasis Laravel yang dikembangkan untuk mendukung digital
 
 ---
 
-<h2>Current Focus</h2>
+## Current Focus
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3>Full-Stack Development</h3>
+### Full-Stack Development
 
-Building modern web applications with React, Vite, Tailwind CSS, Laravel, and PHP.
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>REST API Development</h3>
-
-Designing and integrating backend services with modern frontend applications.
+Building complete web applications across frontend, backend, and database layers.
 
 </td>
+<td width="33%" align="center">
 
-<td width="33%" valign="top">
+### REST API Development
 
-<h3>Database-driven Apps</h3>
+Designing structured APIs for reliable frontend-backend integration.
 
-Working with MySQL and structured data to build practical applications.
+</td>
+<td width="33%" align="center">
+
+### Database-driven Apps
+
+Working with relational databases and application data architecture.
 
 </td>
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3>Authentication & Authorization</h3>
+### Authentication & Authorization
 
-Building role-based access and secure application workflows.
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>Mobile Development</h3>
-
-Exploring application development with Flutter and Dart.
+Implementing secure authentication and role-based access control.
 
 </td>
+<td width="33%" align="center">
 
-<td width="33%" valign="top">
+### Mobile Development
 
-<h3>Software Architecture</h3>
+Exploring practical mobile application development and API integration.
 
-Improving project structure, maintainability, and system integration.
+</td>
+<td width="33%" align="center">
+
+### Software Architecture
+
+Designing maintainable application structures and modular systems.
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Development Philosophy
 
-> **Build it. Understand it. Improve it.**
+> Build with purpose.  
+> Keep it simple.  
+> Make it maintainable.
 
-I believe in learning through real projects, understanding how each layer works, and continuously improving the implementation.
+I focus on understanding the problem before writing the solution. Good software is not only about making features work, but also about building systems that are structured, understandable, and practical to maintain.
 
+My approach:
+
+- Understand the problem
+- Design the system
+- Build incrementally
+- Test and refine
+- Keep improving
 ---
 
 ## Let's Build Something
 
 <p align="center">
-  Interested in collaborating or discussing a project?
+  <b>Have an idea, project, or problem to solve?</b><br>
+  Let's turn it into a working solution.
 </p>
 
 <p align="center">
   <a href="https://github.com/nabilsupardy4422">
-    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-nabilsupardy4422-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/nabilsupardy/">
-    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/nabilsupardy">
+    <img src="https://img.shields.io/badge/Instagram-nabilsupardy-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.tiktok.com/@nabil.supardy">
-    <img src="https://img.shields.io/badge/TikTok-@nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-nabil.supardy-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <em>Better Software, Brighter Tomorrow.</em>
+  <sub>Better Software, Brighter Tomorrow.</sub>
 </p>
-
 ---
 
 <p align="center">
