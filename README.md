@@ -235,6 +235,7 @@ Designing maintainable application structures and modular systems.
 </td>
 </tr>
 </table>
+
 ---
 
 ## Development Philosophy
