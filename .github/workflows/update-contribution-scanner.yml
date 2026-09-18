@@ -39,9 +39,9 @@ jobs:
         run: |
           python scripts/generate_contribution_scanner.py
 
-      - name: Commit updated GIF
+            - name: Commit updated GIF
         run: |
-          if git diff --quiet -- assets/github-cyber-scanner.gif; then
+          if [ -z "$(git status --porcelain -- assets/github-cyber-scanner.gif)" ]; then
             echo "No contribution data change."
             exit 0
           fi
